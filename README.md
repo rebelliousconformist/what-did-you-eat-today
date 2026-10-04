@@ -9,5 +9,11 @@ This program aims to integrate an AI with a console application to avoid the has
 ### Stage 1
 Simple console input, logging to a log file and on console output . 
 
-### Stage 2 
+## Stage 2
+Store the data in a database which is compatible with c++
+
+## Stage 3
+integrate sanitizer and other memcheck support in CMakes
+
+### Stage 3
 integrate AI as middle agent to parse input and create a structured / tabulated format
